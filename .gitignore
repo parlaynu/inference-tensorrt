@@ -1,0 +1,8 @@
+local/
+models/
+.pytest_cache/
+
+*.egg-info/
+.pkl_memoize_py3/
+
+.DS_Store

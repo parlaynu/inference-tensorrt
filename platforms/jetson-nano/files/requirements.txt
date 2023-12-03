@@ -1,0 +1,8 @@
+# imaging
+pillow
+pycuda==2017.1.1
+six
+
+# for camera server
+pyzmq==25.1.1
+
